@@ -1,15 +1,17 @@
 # Sudoku
 Fast and efficient Sudoku solver for 9x9, 16x16, and 25x25 grids.
 
-Input is of the form:
-7 9 0 0 0 0 0 0 3
-0 0 0 0 0 0 0 6 0
-8 0 1 0 0 4 0 0 2
-0 0 5 0 0 0 0 0 0
-3 0 0 1 0 0 0 0 0
-0 4 0 0 0 6 2 0 9
-2 0 0 0 3 0 0 0 6
-0 3 0 6 0 5 4 2 1
-0 0 0 0 0 0 0 0 0
+
+Input is of the form:  
+7 9 0 0 0 0 0 0 3  
+0 0 0 0 0 0 0 6 0  
+8 0 1 0 0 4 0 0 2  
+0 0 5 0 0 0 0 0 0  
+3 0 0 1 0 0 0 0 0  
+0 4 0 0 0 6 2 0 9  
+2 0 0 0 3 0 0 0 6  
+0 3 0 6 0 5 4 2 1  
+0 0 0 0 0 0 0 0 0  
+
 
 where 0's are empty spaces. Size will obviously be different for the different grid sizes.
