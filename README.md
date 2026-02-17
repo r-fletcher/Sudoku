@@ -17,4 +17,4 @@ where 0's are empty spaces. Size will obviously be different for the different g
 To run:
   1. Open terminal in the folder containing the .cpp files.
   2. Run "g++ SudokuNxN.cpp -o SudokuNxN" where N is replaced with either 9, 16 or 25.
-  3. Run "./SudokuNxN" to start the porogram.
+  3. Run "./SudokuNxN" to start the program.
